@@ -1,0 +1,11 @@
+<div class="row shop-container" *ngIf="!loading">
+  <mat-card-title class="margin-left-10">
+    {{title | translate}}
+  </mat-card-title>
+  <!--<mat-card-subtitle class="margin-left-10">
+    {{data | translate}}
+  </mat-card-subtitle>-->
+  <div class="row">
+  <app-product [gridView]="true" [productsList]="productsList"></app-product>
+  </div>
+</div>
