@@ -94,7 +94,7 @@ A Simple MEAN.js E-Commerce Application
     * Connect with Mongo Shell - (mongo "mongodb+srv://ngshop.0h5cq.mongodb.net/<dbname>" --username ngShop)
 
 * Config.json is used to provide db connection details
-* Open `\ngShop\config\config.json` and
+* Open `<project_folder>\server\config\config.json` and
 
 > Sample Connection details for local db instance
 ```json
