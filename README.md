@@ -130,3 +130,4 @@ A Simple MEAN.js E-Commerce Application
 * [Postman Collection](https://documenter.getpostman.com/view/11998783/T1DiGg6m)
 
   > **# Note:** [Demo](https://samyajithm.github.io/ngCart/shop) instance is connected to node.js app hoisted in (http://ngshop.glitch.me) and MongoDb hoisted in MongoDB atlas.
+  >> There will be a initial load time for the server to start in the hoisted environment. As it will be shut down due to inactivity.    Angular app will be showing the spinner
